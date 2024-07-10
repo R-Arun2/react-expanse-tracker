@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-expanse-tracker/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/react-expanse-tracker/static/js/main.197f8496.chunk.js",
+    "main.js.map": "/react-expanse-tracker/static/js/main.197f8496.chunk.js.map",
+    "runtime-main.js": "/react-expanse-tracker/static/js/runtime-main.62b4b22c.js",
+    "runtime-main.js.map": "/react-expanse-tracker/static/js/runtime-main.62b4b22c.js.map",
+    "static/js/2.56dccf92.chunk.js": "/react-expanse-tracker/static/js/2.56dccf92.chunk.js",
+    "static/js/2.56dccf92.chunk.js.map": "/react-expanse-tracker/static/js/2.56dccf92.chunk.js.map",
+    "index.html": "/react-expanse-tracker/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/react-expanse-tracker/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.56dccf92.chunk.js.LICENSE.txt": "/react-expanse-tracker/static/js/2.56dccf92.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62b4b22c.js",
+    "static/js/2.56dccf92.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.197f8496.chunk.js"
+  ]
+}
